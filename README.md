@@ -1,15 +1,8 @@
-# Music Visualiser
+AUDIO VISUALIZER
+Animated webgl Audio visualizer using html,css & js
+Live link: https://dhilshadva.github.io/hacknight/
 
-![audio-visualizer made by Aaditya Prakash](https://miro.medium.com/max/2000/1*CfnrtLr2KoTDs_r7afQ1gQ.png)
-
-## Documentation
-
-In an attempt to learn THREE.js — the 3D rendering WebGL framework and WebAudio API, I made something that visualises the music in a very simple way. This article documents the whole process.
-
-Final thing first:
-
-
-(Just use a .mp3 / .mp4 / .wav file to see it work. If you are out, you can use this)
-
-
-## [Live demo](https://aaditya188.github.io/Music-Visualizer/)
+Presented By:
+Dhilshad V A
+Alka Fathima V B
+Aadil Basheer K B
